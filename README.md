@@ -3,3 +3,4 @@ This notebook consists of a Generative Adversarial Network(GAN) which uses a dis
 
 # Run
 1. First download the dataset from https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8?resourcekey=0-5BR16BdXnb8hVj6CNHKzLg and extract in data/celeba directory in your current directory.
+2. Then, run the entire notebook.
